@@ -3,4 +3,6 @@
 GIT is hard to learn.
 
 we have create a new branch.
-Creating a branch is hard.
+
+Creating a new branch is just simple.
+
